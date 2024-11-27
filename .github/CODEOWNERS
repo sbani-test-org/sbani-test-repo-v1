@@ -1,0 +1,3 @@
+# Automatically assign reviewers for specific branches
+# Format: [pattern] [team or username]
+* @release-managers # Assign reviewers to all pull requests
